@@ -1,4 +1,4 @@
-## **Health Prediction using Stacking Classifier** - [link](https://colab.research.google.com/drive/1jBgcT8CnDYgkbmyHQEKW1cCyOqyB2KwU?usp=sharing#scrollTo=8j33TmtHLk81)
+## **Health Prediction using Stacking Classifier** - [Colab link](https://colab.research.google.com/drive/1jBgcT8CnDYgkbmyHQEKW1cCyOqyB2KwU?usp=sharing#scrollTo=8j33TmtHLk81)
 made by Advait Dongre
 An advanced machine learning project focused on predicting individual health status using various machine learning models and stacking techniques. The optimized stacking classifier outperforms traditional models with high accuracy and low loss, ensuring robust predictions.
 
